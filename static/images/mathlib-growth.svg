@@ -1,0 +1,38 @@
+<svg viewBox="0 0 620 400" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;" role="img" font-family="Source Sans 3, sans-serif">
+<defs><linearGradient id="c3grad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0891b2" stop-opacity="0.16"/><stop offset="100%" stop-color="#0891b2" stop-opacity="0.02"/></linearGradient><linearGradient id="c4grad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#dc2626" stop-opacity="0.18"/><stop offset="100%" stop-color="#dc2626" stop-opacity="0.03"/></linearGradient></defs>
+<line x1="70" y1="218" x2="596" y2="218" stroke="#e2e8f0" stroke-width="1"/>
+<text x="60" y="224" text-anchor="end" font-size="15" fill="#64748b">500K</text>
+<line x1="70" y1="81" x2="596" y2="81" stroke="#e2e8f0" stroke-width="1"/>
+<text x="60" y="86" text-anchor="end" font-size="15" fill="#64748b">1M</text>
+<line x1="70" y1="356" x2="596" y2="356" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="70" y1="356" x2="70" y2="362" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="70" y="382" text-anchor="middle" font-size="15" fill="#64748b">2017</text>
+<line x1="145" y1="356" x2="145" y2="362" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="145" y="382" text-anchor="middle" font-size="15" fill="#64748b">2018</text>
+<line x1="220" y1="356" x2="220" y2="362" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="220" y="382" text-anchor="middle" font-size="15" fill="#64748b">2019</text>
+<line x1="295" y1="356" x2="295" y2="362" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="295" y="382" text-anchor="middle" font-size="15" fill="#64748b">2020</text>
+<line x1="371" y1="356" x2="371" y2="362" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="371" y="382" text-anchor="middle" font-size="15" fill="#64748b">2021</text>
+<line x1="446" y1="356" x2="446" y2="362" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="446" y="382" text-anchor="middle" font-size="15" fill="#64748b">2022</text>
+<line x1="521" y1="356" x2="521" y2="362" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="521" y="382" text-anchor="middle" font-size="15" fill="#64748b">2023</text>
+<path d="M 111 356 C 139 356 139 341 167 341 C 189 341 189 328 211 328 C 229 328 229 315 248 315 C 267 315 267 301 286 301 C 311 301 311 274 336 274 C 355 274 355 232 374 232 C 411 232 411 150 449 150 C 480 150 480 81 511 81 C 536 81 536 54 561 54 L 561 356 L 111 356 Z" fill="url(#c3grad)"/>
+<path d="M 111 356 C 139 356 139 341 167 341 C 189 341 189 328 211 328 C 229 328 229 315 248 315 C 267 315 267 301 286 301 C 311 301 311 274 336 274 C 355 274 355 232 374 232 C 411 232 411 150 449 150 C 480 150 480 81 511 81 C 536 81 536 54 561 54" fill="none" stroke="#0891b2" stroke-width="2.5"/>
+<path d="M 398 356 C 442 356 442 349 486 349 C 502 349 502 328 518 328 C 524 328 524 260 530 260 C 533 260 533 218 537 218 C 543 218 543 136 549 136 C 555 136 555 54 561 54 L 561 356 L 398 356 Z" fill="url(#c4grad)"/>
+<path d="M 398 356 C 442 356 442 349 486 349 C 502 349 502 328 518 328 C 524 328 524 260 530 260 C 533 260 533 218 537 218 C 543 218 543 136 549 136 C 555 136 555 54 561 54" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+<circle cx="167" cy="341" r="5" fill="#fff" stroke="#0891b2" stroke-width="2.5"/>
+<text x="167" y="329" text-anchor="middle" font-size="14" font-weight="600" fill="#0891b2">55K</text>
+<circle cx="374" cy="232" r="5" fill="#fff" stroke="#0891b2" stroke-width="2.5"/>
+<text x="366" y="220" text-anchor="end" font-size="14" font-weight="600" fill="#0891b2">~450K</text>
+<circle cx="486" cy="349" r="5" fill="#fff" stroke="#dc2626" stroke-width="2.5"/>
+<text x="486" y="335" text-anchor="middle" font-size="14" font-weight="600" fill="#dc2626">port starts</text>
+<circle cx="561" cy="54" r="5" fill="#fff" stroke="#dc2626" stroke-width="2.5"/>
+<text x="555" y="44" text-anchor="end" font-size="14" font-weight="600" fill="#dc2626">1.1M</text>
+<rect x="84" y="36" width="20" height="4" rx="2" fill="#0891b2"/>
+<text x="112" y="42" font-size="15" fill="#64748b">Mathlib 3 LoC</text>
+<rect x="84" y="60" width="20" height="4" rx="2" fill="#dc2626"/>
+<text x="112" y="66" font-size="15" fill="#64748b">Mathlib 4 LoC</text>
+</svg>

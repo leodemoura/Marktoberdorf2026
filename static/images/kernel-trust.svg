@@ -1,0 +1,59 @@
+<svg viewBox="0 0 1120 480" xmlns="http://www.w3.org/2000/svg" style="width:80%;height:auto;" role="img" font-family="Source Sans 3, sans-serif">
+  <!-- untrusted zone -->
+  <rect x="28" y="70" width="286" height="340" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="171" y="100" text-anchor="middle" font-size="15.5" font-weight="600" fill="#64748b" letter-spacing="1">NOT TRUSTED</text>
+  <g font-size="14.5" fill="#0f172a">
+    <rect x="48"  y="120" width="118" height="42" rx="7" fill="#fff" stroke="#cbd5e1"/><text x="107" y="146" text-anchor="middle">Elaborator</text>
+    <rect x="176" y="120" width="118" height="42" rx="7" fill="#fff" stroke="#cbd5e1"/><text x="235" y="146" text-anchor="middle">Tactics</text>
+    <rect x="48"  y="172" width="118" height="42" rx="7" fill="#fff" stroke="#cbd5e1"/><text x="107" y="198" text-anchor="middle">Metaprograms</text>
+    <rect x="176" y="172" width="118" height="42" rx="7" fill="#fff" stroke="#cbd5e1"/><text x="235" y="198" text-anchor="middle">LSP</text>
+    <rect x="48"  y="224" width="118" height="42" rx="7" fill="#fff" stroke="#cbd5e1"/><text x="107" y="250" text-anchor="middle">Parser</text>
+    <rect x="176" y="224" width="118" height="42" rx="7" fill="#fff" stroke="#cbd5e1"/><text x="235" y="250" text-anchor="middle">Macro system</text>
+    <rect x="112" y="276" width="118" height="42" rx="7" fill="#fff" stroke="#cbd5e1"/><text x="171" y="302" text-anchor="middle">AI</text>
+  </g>
+  <text x="171" y="352" text-anchor="middle" font-size="14" fill="#94a3b8" font-style="italic">produce declarations</text>
+
+  <!-- declarations arrow -->
+  <line x1="314" y1="240" x2="384" y2="240" stroke="#0891b2" stroke-width="3.5"/>
+  <polygon points="384,232 404,240 384,248" fill="#0891b2"/>
+  <text x="359" y="224" text-anchor="middle" font-size="14.5" font-weight="600" fill="#0e7490">declarations</text>
+
+  <!-- official kernel (first check, in place) -->
+  <rect x="414" y="206" width="150" height="68" rx="12" fill="#0073A3"/>
+  <text x="489" y="235" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">Official kernel</text>
+  <text x="489" y="256" text-anchor="middle" font-size="12.5" fill="#cfe8f5">C++ · checks in place</text>
+
+  <!-- export step -->
+  <line x1="564" y1="240" x2="628" y2="240" stroke="#94a3b8" stroke-width="3"/>
+  <polygon points="628,233 646,240 628,247" fill="#94a3b8"/>
+  <rect x="650" y="212" width="128" height="56" rx="10" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.5"/>
+  <text x="714" y="237" text-anchor="middle" font-size="15.5" font-weight="600" fill="#0c4a6e">lean4export</text>
+  <text x="714" y="256" text-anchor="middle" font-size="12" fill="#0369a1">export format</text>
+
+  <!-- fan-out to independent re-checkers -->
+  <g stroke="#94a3b8" stroke-width="2" fill="none">
+    <path d="M778 226 C 812 226 812 138 834 138"/>
+    <path d="M778 240 L 834 240"/>
+    <path d="M778 254 C 812 254 812 342 834 342"/>
+  </g>
+  <g fill="#94a3b8">
+    <polygon points="832,131 850,138 832,145"/>
+    <polygon points="832,233 850,240 832,247"/>
+    <polygon points="832,335 850,342 832,349"/>
+  </g>
+
+  <!-- independent re-checks zone -->
+  <rect x="832" y="70" width="262" height="340" rx="14" fill="none" stroke="#0073A3" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <text x="963" y="98" text-anchor="middle" font-size="14" font-weight="700" fill="#0073A3" letter-spacing="1">INDEPENDENT RE-CHECKS</text>
+  <g font-size="15">
+    <rect x="852" y="112" width="222" height="56" rx="9" fill="#eff6ff" stroke="#0284c7" stroke-width="1.5"/>
+      <text x="963" y="137" text-anchor="middle" font-weight="600" fill="#0c4a6e">lean4checker</text>
+      <text x="963" y="156" text-anchor="middle" font-size="12" fill="#0369a1">official kernel + export parser</text>
+    <rect x="852" y="212" width="222" height="56" rx="9" fill="#eff6ff" stroke="#0284c7" stroke-width="1.5"/>
+      <text x="963" y="237" text-anchor="middle" font-weight="600" fill="#0c4a6e">nanoda</text>
+      <text x="963" y="256" text-anchor="middle" font-size="12" fill="#0369a1">Rust · independent kernel</text>
+    <rect x="852" y="312" width="222" height="56" rx="9" fill="#eff6ff" stroke="#0284c7" stroke-width="1.5"/>
+      <text x="963" y="337" text-anchor="middle" font-weight="600" fill="#0c4a6e">lean4lean</text>
+      <text x="963" y="356" text-anchor="middle" font-size="12" fill="#0369a1">Lean · independent kernel</text>
+  </g>
+</svg>

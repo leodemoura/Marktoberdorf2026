@@ -1,0 +1,14 @@
+name = "exercises"
+version = "0.1.0"
+defaultTargets = ["Imp", "Exercises", "Solutions"]
+
+[[lean_lib]]
+name = "Imp"
+
+[[lean_lib]]
+name = "Exercises"
+globs = ["Exercises.+"]
+
+[[lean_lib]]
+name = "Solutions"
+globs = ["Solutions.+"]

@@ -1,0 +1,107 @@
+<svg viewBox="0 0 1280 620" xmlns="http://www.w3.org/2000/svg" style="width:92%;height:auto;" role="img" font-family="Source Sans 3, sans-serif">
+<defs><linearGradient id="ml3grad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0891b2" stop-opacity="0.12"/><stop offset="100%" stop-color="#0891b2" stop-opacity="0.02"/></linearGradient><linearGradient id="ml4grad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#dc2626" stop-opacity="0.14"/><stop offset="100%" stop-color="#dc2626" stop-opacity="0.03"/></linearGradient></defs>
+<path d="M 510 318 C 545 318 545 309 581 309 C 608 309 608 302 636 302 C 659 302 659 293 683 293 C 707 293 707 285 730 285 C 762 285 762 269 794 269 C 817 269 817 244 841 244 C 888 244 888 195 936 195 C 975 195 975 154 1014 154 C 1046 154 1046 138 1078 138 L 1078 318 L 510 318 Z" fill="url(#ml3grad)"/>
+<path d="M 510 318 C 545 318 545 309 581 309 C 608 309 608 302 636 302 C 659 302 659 293 683 293 C 707 293 707 285 730 285 C 762 285 762 269 794 269 C 817 269 817 244 841 244 C 888 244 888 195 936 195 C 975 195 975 154 1014 154 C 1046 154 1046 138 1078 138" fill="none" stroke="#0891b2" stroke-width="2" opacity="0.40"/>
+<path d="M 872 318 C 928 318 928 314 983 314 C 1003 314 1003 302 1023 302 C 1030 302 1030 261 1038 261 C 1042 261 1042 236 1046 236 C 1054 236 1054 187 1061 187 C 1069 187 1069 138 1078 138 L 1078 318 L 872 318 Z" fill="url(#ml4grad)"/>
+<path d="M 872 318 C 928 318 928 314 983 314 C 1003 314 1003 302 1023 302 C 1030 302 1030 261 1038 261 C 1042 261 1042 236 1046 236 C 1054 236 1054 187 1061 187 C 1069 187 1069 138 1078 138" fill="none" stroke="#dc2626" stroke-width="2" opacity="0.50"/>
+<circle cx="1078" cy="138" r="3.5" fill="#dc2626" opacity="0.6"/>
+<text x="1078" y="126" text-anchor="middle" font-size="12" fill="#64748b" opacity="0.85">1.1M</text>
+<rect x="1105" y="168" width="18" height="4" rx="2" fill="#0891b2" opacity="0.6"/>
+<text x="1131" y="174" font-size="13" fill="#64748b" opacity="0.9">Mathlib 3 LoC</text>
+<rect x="1105" y="190" width="18" height="4" rx="2" fill="#dc2626" opacity="0.7"/>
+<text x="1131" y="196" font-size="13" fill="#64748b" opacity="0.9">Mathlib 4 LoC</text>
+<line x1="60" y1="320" x2="1195" y2="320" stroke="#0891b2" stroke-width="3"/>
+<polygon points="1195,313 1213,320 1195,327" fill="#0891b2"/>
+<line x1="80" y1="314" x2="80" y2="326" stroke="#0891b2" stroke-width="2"/>
+<text x="80" y="354" text-anchor="middle" font-size="17" fill="#64748b">2013</text>
+<line x1="175" y1="314" x2="175" y2="326" stroke="#0891b2" stroke-width="2"/>
+<text x="175" y="354" text-anchor="middle" font-size="17" fill="#64748b">2014</text>
+<line x1="269" y1="314" x2="269" y2="326" stroke="#0891b2" stroke-width="2"/>
+<text x="269" y="354" text-anchor="middle" font-size="17" fill="#64748b">2015</text>
+<line x1="364" y1="314" x2="364" y2="326" stroke="#0891b2" stroke-width="2"/>
+<text x="364" y="354" text-anchor="middle" font-size="17" fill="#64748b">2016</text>
+<line x1="459" y1="314" x2="459" y2="326" stroke="#0891b2" stroke-width="2"/>
+<text x="459" y="354" text-anchor="middle" font-size="17" fill="#64748b">2017</text>
+<line x1="553" y1="314" x2="553" y2="326" stroke="#0891b2" stroke-width="2"/>
+<text x="553" y="354" text-anchor="middle" font-size="17" fill="#64748b">2018</text>
+<line x1="648" y1="314" x2="648" y2="326" stroke="#0891b2" stroke-width="2"/>
+<text x="648" y="354" text-anchor="middle" font-size="17" fill="#64748b">2019</text>
+<line x1="742" y1="314" x2="742" y2="326" stroke="#0891b2" stroke-width="2"/>
+<text x="742" y="354" text-anchor="middle" font-size="17" fill="#64748b">2020</text>
+<line x1="837" y1="314" x2="837" y2="326" stroke="#0891b2" stroke-width="2"/>
+<text x="837" y="354" text-anchor="middle" font-size="17" fill="#64748b">2021</text>
+<line x1="932" y1="314" x2="932" y2="326" stroke="#0891b2" stroke-width="2"/>
+<text x="932" y="354" text-anchor="middle" font-size="17" fill="#64748b">2022</text>
+<line x1="1026" y1="314" x2="1026" y2="326" stroke="#0891b2" stroke-width="2"/>
+<text x="1026" y="354" text-anchor="middle" font-size="17" fill="#64748b">2023</text>
+<line x1="131" y1="314" x2="131" y2="238" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="131" cy="320" r="6" fill="#fff" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="45" y="178" width="172" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="131" y="204" text-anchor="middle" font-size="18" font-weight="600" fill="#0f172a">First commit</text>
+<text x="131" y="226" text-anchor="middle" font-size="15" fill="#64748b">July 2013</text>
+<line x1="218" y1="326" x2="218" y2="402" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="218" cy="320" r="6" fill="#fff" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="132" y="402" width="172" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="218" y="428" text-anchor="middle" font-size="18" font-weight="600" fill="#0f172a">Lean 0.1</text>
+<text x="218" y="450" text-anchor="middle" font-size="15" fill="#64748b">June 2014</text>
+<line x1="273" y1="314" x2="273" y2="140" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="273" cy="320" r="6" fill="#fff" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="187" y="80" width="172" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="273" y="106" text-anchor="middle" font-size="18" font-weight="600" fill="#0f172a">First course @ CMU</text>
+<text x="273" y="128" text-anchor="middle" font-size="15" fill="#64748b">January 2015</text>
+<line x1="328" y1="326" x2="328" y2="504" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="328" cy="320" r="6" fill="#fff" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="242" y="504" width="172" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="328" y="530" text-anchor="middle" font-size="18" font-weight="600" fill="#0f172a">Lean 2 at CADE-25</text>
+<text x="328" y="552" text-anchor="middle" font-size="15" fill="#64748b">August 2015</text>
+<line x1="462" y1="311" x2="462" y2="238" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="462" cy="320" r="9" fill="#0073A3"/>
+<rect x="376" y="178" width="172" height="60" rx="8" fill="#fff" stroke="#0073A3" stroke-width="2"/>
+<text x="462" y="204" text-anchor="middle" font-size="18" font-weight="700" fill="#0073A3">Lean 3.0 &amp; POPL</text>
+<text x="462" y="226" text-anchor="middle" font-size="15" fill="#64748b">January 2017</text>
+<line x1="510" y1="329" x2="510" y2="402" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="510" cy="320" r="9" fill="#0073A3"/>
+<rect x="424" y="402" width="172" height="60" rx="8" fill="#fff" stroke="#0073A3" stroke-width="2"/>
+<text x="510" y="428" text-anchor="middle" font-size="18" font-weight="700" fill="#0073A3">Mathlib</text>
+<text x="510" y="450" text-anchor="middle" font-size="15" fill="#64748b">July 2017</text>
+<line x1="555" y1="314" x2="555" y2="140" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="555" cy="320" r="6" fill="#fff" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="469" y="80" width="172" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="555" y="106" text-anchor="middle" font-size="18" font-weight="600" fill="#0f172a">Zulip community</text>
+<text x="555" y="128" text-anchor="middle" font-size="15" fill="#64748b">February 2018</text>
+<line x1="586" y1="329" x2="586" y2="504" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="586" cy="320" r="9" fill="#0073A3"/>
+<rect x="500" y="504" width="172" height="60" rx="8" fill="#fff" stroke="#0073A3" stroke-width="2"/>
+<text x="586" y="530" text-anchor="middle" font-size="18" font-weight="700" fill="#0073A3">Lean 4 begins</text>
+<text x="586" y="552" text-anchor="middle" font-size="15" fill="#64748b">April 2018</text>
+<line x1="723" y1="314" x2="723" y2="238" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="723" cy="320" r="6" fill="#fff" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="637" y="178" width="172" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="723" y="204" text-anchor="middle" font-size="18" font-weight="600" fill="#0f172a">Natural Number Game</text>
+<text x="723" y="226" text-anchor="middle" font-size="15" fill="#64748b">October 2019</text>
+<line x1="817" y1="326" x2="817" y2="402" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="817" cy="320" r="6" fill="#fff" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="731" y="402" width="172" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="817" y="428" text-anchor="middle" font-size="18" font-weight="600" fill="#0f172a">Quanta</text>
+<text x="817" y="450" text-anchor="middle" font-size="15" fill="#64748b">October 2020</text>
+<line x1="841" y1="314" x2="841" y2="140" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="841" cy="320" r="6" fill="#fff" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="755" y="80" width="172" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="841" y="106" text-anchor="middle" font-size="18" font-weight="600" fill="#0f172a">Lean 4 pre-release</text>
+<text x="841" y="128" text-anchor="middle" font-size="15" fill="#64748b">January 2021</text>
+<line x1="881" y1="329" x2="881" y2="504" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="881" cy="320" r="9" fill="#0073A3"/>
+<rect x="795" y="504" width="172" height="60" rx="8" fill="#fff" stroke="#0073A3" stroke-width="2"/>
+<text x="881" y="530" text-anchor="middle" font-size="18" font-weight="700" fill="#0073A3">LTE main result</text>
+<text x="881" y="552" text-anchor="middle" font-size="15" fill="#64748b">June 2021</text>
+<line x1="983" y1="314" x2="983" y2="238" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="983" cy="320" r="6" fill="#fff" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="897" y="178" width="172" height="60" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="983" y="204" text-anchor="middle" font-size="18" font-weight="600" fill="#0f172a">LTE completed</text>
+<text x="983" y="226" text-anchor="middle" font-size="15" fill="#64748b">July 2022</text>
+<line x1="1078" y1="329" x2="1078" y2="402" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="1078" cy="320" r="9" fill="#0073A3"/>
+<rect x="992" y="402" width="172" height="60" rx="8" fill="#fff" stroke="#0073A3" stroke-width="2"/>
+<text x="1078" y="428" text-anchor="middle" font-size="18" font-weight="700" fill="#0073A3">Lean FRO</text>
+<text x="1078" y="450" text-anchor="middle" font-size="15" fill="#64748b">July 2023</text>
+</svg>
